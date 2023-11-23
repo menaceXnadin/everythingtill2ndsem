@@ -1,0 +1,2 @@
+import examplemod
+examplemod.nadin()
